@@ -6,7 +6,7 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=ala075)
 
 - 👨‍💻 All of my projects are available at [alaarfaoui.vercel.app](alaarfaoui.vercel.app)
-- 📫 How to reach me: ala.arfaoui751@gmail.com
+- 📫 How to reach me: elarfaouiala@gmail.com
 
 ### Languages and Tools
 
