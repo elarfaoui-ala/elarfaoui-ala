@@ -6,8 +6,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=elarfaoui-ala&label=Profile%20views&color=ff0000&style=flat)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=elarfaoui-ala)
-
 [![Email Badge](https://img.shields.io/badge/-elarfaouiala@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:elarfaouiala@gmail.com)](mailto:elarfaouiala@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/elarfaoui-ala)](https://linkedin.com/in/elarfaoui-ala)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&link=https://alaarfaoui.vercel.app)](https://alaarfaoui.vercel.app)
