@@ -9,8 +9,8 @@
 [![Email Badge](https://img.shields.io/badge/-elarfaouiala@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:elarfaouiala@gmail.com)](mailto:elarfaouiala@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/elarfaoui-ala)](https://linkedin.com/in/elarfaoui-ala)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&link=https://alaarfaoui.vercel.app)](https://alaarfaoui.vercel.app)
-[![Phone](https://img.shields.io/badge/-Phone-%2B216%2020773759-25C2A0?style=flat-square)](tel:+21620773759)
-[![Location](https://img.shields.io/badge/📍-Le%20Kef%2C%20Tunisia-FF6B6B?style=flat-square)]()
+[![Phone](https://img.shields.io/badge/Phone-+216%2020773759-25C2A0?style=flat-square&logo=phone&logoColor=white)](tel:+21620773759)
+[![Location](https://img.shields.io/badge/📍-Tunis%2C%20Tunisia-FF6B6B?style=flat-square)]()
 
 ---
 
