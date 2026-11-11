@@ -23,22 +23,22 @@
   <text x="24" y="40" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700" fill="#D7ECE8">Most Used Languages</text>
   <rect x="24" y="50" width="40" height="5" rx="2.5" fill="#F97316"/>
   <text x="24" y="78" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="600" fill="#D7ECE8">TypeScript</text>
-  <text x="471" y="78" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#F97316">71.6%</text>
+  <text x="471" y="78" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#F97316">69.9%</text>
   <rect x="24" y="84" width="443" height="6" rx="3" fill="#0C1F24" stroke="#D7ECE8" stroke-opacity="0.12"/>
-  <rect x="24" y="84" width="317.4" height="6" rx="3" fill="#F97316" fill-opacity="0.95"/>
+  <rect x="24" y="84" width="309.5" height="6" rx="3" fill="#F97316" fill-opacity="0.95"/>
   <text x="24" y="103" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="600" fill="#D7ECE8">Java</text>
-  <text x="471" y="103" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#4FB8B2">20.2%</text>
+  <text x="471" y="103" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#4FB8B2">19.7%</text>
   <rect x="24" y="109" width="443" height="6" rx="3" fill="#0C1F24" stroke="#D7ECE8" stroke-opacity="0.12"/>
-  <rect x="24" y="109" width="89.3" height="6" rx="3" fill="#4FB8B2" fill-opacity="0.95"/>
+  <rect x="24" y="109" width="87.1" height="6" rx="3" fill="#4FB8B2" fill-opacity="0.95"/>
   <text x="24" y="128" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="600" fill="#D7ECE8">CSS</text>
-  <text x="471" y="128" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#4FB8B2">3.6%</text>
+  <text x="471" y="128" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#4FB8B2">3.5%</text>
   <rect x="24" y="134" width="443" height="6" rx="3" fill="#0C1F24" stroke="#D7ECE8" stroke-opacity="0.12"/>
-  <rect x="24" y="134" width="15.8" height="6" rx="3" fill="#4FB8B2" fill-opacity="0.95"/>
-  <text x="24" y="153" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="600" fill="#D7ECE8">Dockerfile</text>
-  <text x="471" y="153" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#4FB8B2">2.7%</text>
+  <rect x="24" y="134" width="15.4" height="6" rx="3" fill="#4FB8B2" fill-opacity="0.95"/>
+  <text x="24" y="153" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="600" fill="#D7ECE8">JavaScript</text>
+  <text x="471" y="153" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#4FB8B2">3.3%</text>
   <rect x="24" y="159" width="443" height="6" rx="3" fill="#0C1F24" stroke="#D7ECE8" stroke-opacity="0.12"/>
-  <rect x="24" y="159" width="11.8" height="6" rx="3" fill="#4FB8B2" fill-opacity="0.95"/>
-  <text x="24" y="178" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="600" fill="#D7ECE8">JavaScript</text>
-  <text x="471" y="178" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#4FB8B2">0.8%</text>
+  <rect x="24" y="159" width="14.5" height="6" rx="3" fill="#4FB8B2" fill-opacity="0.95"/>
+  <text x="24" y="178" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="600" fill="#D7ECE8">Dockerfile</text>
+  <text x="471" y="178" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#4FB8B2">2.6%</text>
   <rect x="24" y="184" width="443" height="6" rx="3" fill="#0C1F24" stroke="#D7ECE8" stroke-opacity="0.12"/>
-  <rect x="24" y="184" width="3.6" height="6" rx="3" fill="#4FB8B2" fill-opacity="0.95"/></svg>
+  <rect x="24" y="184" width="11.5" height="6" rx="3" fill="#4FB8B2" fill-opacity="0.95"/></svg>
