@@ -25,4 +25,4 @@ jobs:
           max_post_count: "5"
           readme_path: "README.md"
           comment_tag_name: "BLOG_POSTS"
-          template: "- [$title]($url)"
+          template: "- [$title]($url)$newline"
