@@ -110,11 +110,11 @@ const ala = {
 
 Fresh posts from [my portfolio blog](https://alaarfaoui.vercel.app/blog), pulled in automatically:
 
-<!-- BLOG_POSTS_START -->
+<!-- BLOG_POSTS:START -->
 - [10 Next.js App Router Mistakes (And Fixes)](https://alaarfaoui.vercel.app/blog/10-nextjs-app-router-mistakes-and-fixes)
 - [Containers First: Building a Repeatable CI/CD Pipeline](https://alaarfaoui.vercel.app/blog/containers-first-cicd-pipeline)
 - [How I Built a SEO-Ready Portfolio with TanStack Start](https://alaarfaoui.vercel.app/blog/building-a-seo-ready-portfolio)
-<!-- BLOG_POSTS_END -->
+<!-- BLOG_POSTS:END -->
 
 ---
 
