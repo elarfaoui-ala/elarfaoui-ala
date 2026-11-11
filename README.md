@@ -90,17 +90,17 @@ const ala = {
 <div align="center">
 
 <a href="https://github.com/elarfaoui-ala">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elarfaoui-ala&show_icons=true&hide_border=true&bg_color=173A40&title_color=F97316&text_color=D7ECE8&icon_color=4FB8B2&ring_color=4FB8B2" alt="Ala's GitHub stats" />
+  <img width="400" src="assets/stats.svg" alt="Ala's GitHub stats — contributions, commits, pull requests, issues, stars and followers" />
 </a>
-<a href="https://github.com/elarfaoui-ala">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elarfaoui-ala&layout=compact&hide_border=true&bg_color=173A40&title_color=F97316&text_color=D7ECE8&icon_color=4FB8B2" alt="Top languages" />
+<a href="https://github.com/elarfaoui-ala?tab=repositories">
+  <img width="400" src="assets/languages.svg" alt="Most used languages across Ala's public repositories" />
 </a>
 
 <a href="https://github.com/elarfaoui-ala">
   <img width="495" src="https://streak-stats.demolab.com/?user=elarfaoui-ala&hide_border=true&background=173A40&stroke=4FB8B2&ring=F97316&fire=F97316&currStreakNum=D7ECE8&sideNums=D7ECE8&currStreakLabel=F97316&sideLabels=F97316&dates=D7ECE8" alt="GitHub streak" />
 </a>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=elarfaoui-ala&hide_border=true&bg_color=173A40&color=D7ECE8&line=F97316&point=4FB8B2&area=true&area_color=4FB8B2&custom_title=Contribution%20Activity" alt="Contribution activity" />
+<img width="100%" src="assets/contributions.svg" alt="Contribution activity in the last year" />
 
 </div>
 
@@ -110,7 +110,8 @@ const ala = {
 
 Fresh posts from [my portfolio blog](https://alaarfaoui.vercel.app/blog), pulled in automatically:
 
-<!-- BLOG_POSTS:START -->- [10 Next.js App Router Mistakes &lpar;And Fixes&rpar;](https://alaarfaoui.vercel.app/blog/10-nextjs-app-router-mistakes-and-fixes)
+<!-- BLOG_POSTS:START -->
+- [10 Next.js App Router Mistakes &lpar;And Fixes&rpar;](https://alaarfaoui.vercel.app/blog/10-nextjs-app-router-mistakes-and-fixes)
 - [Pragmatic Git: Commands I Use Every Day](https://alaarfaoui.vercel.app/blog/pragmatic-git-commands-i-use-every-day)
 - [How I Built a SEO-Ready Portfolio with TanStack Start](https://alaarfaoui.vercel.app/blog/building-a-seo-ready-portfolio)
 - [Containers First: Building a Repeatable CI/CD Pipeline](https://alaarfaoui.vercel.app/blog/containers-first-cicd-pipeline)

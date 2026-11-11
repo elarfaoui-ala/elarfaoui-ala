@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="200" viewBox="0 0 495 200" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1C444D"/>
+      <stop offset="1" stop-color="#0F252A"/>
+    </linearGradient>
+    <radialGradient id="glowO" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#F97316" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#F97316" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowT" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#4FB8B2" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#4FB8B2" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#4FB8B2" fill-opacity="0.1"/>
+    </pattern>
+  </defs>
+  <rect x="2" y="2" width="491" height="196" rx="16" fill="url(#bg)" stroke="#4FB8B2" stroke-opacity="0.35" stroke-width="2"/>
+  <rect x="2" y="2" width="491" height="196" rx="16" fill="url(#dots)"/>
+  <circle cx="435" cy="50" r="130" fill="url(#glowO)"/>
+  <circle cx="60" cy="160" r="110" fill="url(#glowT)"/>
+  <text x="24" y="40" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700" fill="#D7ECE8">Most Used Languages</text>
+  <rect x="24" y="50" width="40" height="5" rx="2.5" fill="#F97316"/>
+  <text x="24" y="78" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="600" fill="#D7ECE8">TypeScript</text>
+  <text x="471" y="78" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#F97316">71.6%</text>
+  <rect x="24" y="84" width="443" height="6" rx="3" fill="#0C1F24" stroke="#D7ECE8" stroke-opacity="0.12"/>
+  <rect x="24" y="84" width="317.4" height="6" rx="3" fill="#F97316" fill-opacity="0.95"/>
+  <text x="24" y="103" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="600" fill="#D7ECE8">Java</text>
+  <text x="471" y="103" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#4FB8B2">20.2%</text>
+  <rect x="24" y="109" width="443" height="6" rx="3" fill="#0C1F24" stroke="#D7ECE8" stroke-opacity="0.12"/>
+  <rect x="24" y="109" width="89.3" height="6" rx="3" fill="#4FB8B2" fill-opacity="0.95"/>
+  <text x="24" y="128" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="600" fill="#D7ECE8">CSS</text>
+  <text x="471" y="128" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#4FB8B2">3.6%</text>
+  <rect x="24" y="134" width="443" height="6" rx="3" fill="#0C1F24" stroke="#D7ECE8" stroke-opacity="0.12"/>
+  <rect x="24" y="134" width="15.8" height="6" rx="3" fill="#4FB8B2" fill-opacity="0.95"/>
+  <text x="24" y="153" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="600" fill="#D7ECE8">Dockerfile</text>
+  <text x="471" y="153" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#4FB8B2">2.7%</text>
+  <rect x="24" y="159" width="443" height="6" rx="3" fill="#0C1F24" stroke="#D7ECE8" stroke-opacity="0.12"/>
+  <rect x="24" y="159" width="11.8" height="6" rx="3" fill="#4FB8B2" fill-opacity="0.95"/>
+  <text x="24" y="178" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="600" fill="#D7ECE8">JavaScript</text>
+  <text x="471" y="178" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#4FB8B2">0.8%</text>
+  <rect x="24" y="184" width="443" height="6" rx="3" fill="#0C1F24" stroke="#D7ECE8" stroke-opacity="0.12"/>
+  <rect x="24" y="184" width="3.6" height="6" rx="3" fill="#4FB8B2" fill-opacity="0.95"/></svg>
