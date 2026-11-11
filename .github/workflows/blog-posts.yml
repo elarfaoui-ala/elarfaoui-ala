@@ -1,0 +1,28 @@
+name: Update latest blog posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Refresh "Latest Writing" section
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest posts from portfolio RSS
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://alaarfaoui.vercel.app/feed.xml"
+          max_post_count: "5"
+          readme_path: "README.md"
+          comment_tag_name: "BLOG_POSTS"
+          template: "- [$title]($url)"

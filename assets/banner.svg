@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Ala Arfaoui — Full Stack &amp; DevOps Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1C444D"/>
+      <stop offset="1" stop-color="#0F252A"/>
+    </linearGradient>
+    <radialGradient id="glowO" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#F97316" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#F97316" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowT" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#4FB8B2" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#4FB8B2" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#4FB8B2" fill-opacity="0.14"/>
+    </pattern>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="256" rx="24" fill="url(#bg)" stroke="#4FB8B2" stroke-opacity="0.35" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="256" rx="24" fill="url(#dots)"/>
+  <circle cx="1090" cy="60" r="150" fill="url(#glowO)"/>
+  <circle cx="120" cy="210" r="130" fill="url(#glowT)"/>
+
+  <g transform="translate(120, 130)" fill="none" stroke="#F97316" stroke-width="2" stroke-opacity="0.85">
+    <path d="M 0 -26 L 22.5 -13 L 22.5 13 L 0 26 L -22.5 13 L -22.5 -13 Z"/>
+    <path d="M 0 -10 L 8.6 -5 L 8.6 5 L 0 10 L -8.6 5 L -8.6 -5 Z" fill="#F97316" fill-opacity="0.35" stroke="none"/>
+  </g>
+  <g transform="translate(1080, 130)" fill="none" stroke="#4FB8B2" stroke-width="2" stroke-opacity="0.8">
+    <path d="M 0 -18 L 15.6 -9 L 15.6 9 L 0 18 L -15.6 9 L -15.6 -9 Z"/>
+  </g>
+  <line x1="150" y1="130" x2="1050" y2="130" stroke="#4FB8B2" stroke-opacity="0.18" stroke-dasharray="3 10"/>
+
+  <text x="600" y="122" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="84" font-weight="700" letter-spacing="6" fill="#D7ECE8">ALA ARFAOUI</text>
+  <rect x="540" y="146" width="120" height="8" rx="4" fill="#F97316"/>
+  <text x="600" y="192" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="8" fill="#4FB8B2">FULL STACK &amp; DEVOPS DEVELOPER</text>
+  <text x="600" y="226" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="15" letter-spacing="1" fill="#D7ECE8" fill-opacity="0.6">Tunis, Tunisia · alaarfaoui.vercel.app</text>
+</svg>
