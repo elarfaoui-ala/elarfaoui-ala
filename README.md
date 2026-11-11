@@ -85,27 +85,6 @@ const ala = {
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/elarfaoui-ala">
-  <img width="400" src="assets/stats.svg" alt="Ala's GitHub stats — contributions, commits, pull requests, issues, stars and followers" />
-</a>
-<a href="https://github.com/elarfaoui-ala?tab=repositories">
-  <img width="400" src="assets/languages.svg" alt="Most used languages across Ala's public repositories" />
-</a>
-
-<a href="https://github.com/elarfaoui-ala">
-  <img width="495" src="https://streak-stats.demolab.com/?user=elarfaoui-ala&hide_border=true&background=173A40&stroke=4FB8B2&ring=F97316&fire=F97316&currStreakNum=D7ECE8&sideNums=D7ECE8&currStreakLabel=F97316&sideLabels=F97316&dates=D7ECE8" alt="GitHub streak" />
-</a>
-
-<img width="100%" src="assets/contributions.svg" alt="Contribution activity in the last year" />
-
-</div>
-
----
-
 ## ✍️ Latest Writing
 
 Fresh posts from [my portfolio blog](https://alaarfaoui.vercel.app/blog), pulled in automatically:
